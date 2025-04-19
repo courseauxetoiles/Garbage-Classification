@@ -34,8 +34,14 @@ recyclable-plastic       0.76      0.73      0.75       130
 
 Based on the [Kaggle Garbage Classification dataset](https://www.kaggle.com/datasets/mostafaabla/garbage-classification), reorganized into:
 
-- **Organic** - **Recyclable-Paper** - **Recyclable-Plastic** - **Recyclable-Glass**
-- **Recyclable-Metal** - **Textile** - **General-Trash** - **Hazardous**
+- **Organic**
+- **Recyclable-Paper** 
+- **Recyclable-Plastic** 
+- **Recyclable-Glass**
+- **Recyclable-Metal** 
+- **Textile** 
+- **General-Trash** 
+- **Hazardous**
 
 ## 🛠️ Implementation
 
