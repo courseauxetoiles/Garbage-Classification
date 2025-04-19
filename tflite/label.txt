@@ -1,3 +1,0 @@
-Label_1
-Label_2
-...
